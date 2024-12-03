@@ -20,3 +20,19 @@ Note:为防止原始PNG文件太大导致占用显存多，运行速度慢，可
 python smallPng.py
 ```
 缩小PNG图片。
+
+目前得分结果概览：
+```
+Score 0: 42 SVGs
+Score 1: 38 SVGs
+Score 2: 52 SVGs
+Score 3: 56 SVGs
+Score 4: 70 SVGs
+Score 5: 111 SVGs
+Score 6: 154 SVGs
+Score 7: 329 SVGs
+Score 8: 774 SVGs
+Score 9: 2309 SVGs
+Score 10: 4890 SVGs
+8825 SVGs in total
+```
